@@ -1,0 +1,83 @@
+                                                                              Resume                                              
+ 
+VAMSI KRISHNA
+
+
+B. Tech in CSE(Computer Science),	                       Email: vamsikt568@gmail.com
+Jntuk University.	           Tel: (+91): 9642367318.
+	
+OBJECTIVE
+
+To secure a position where I can efficiently contribute my skills and abilities to the growth of the organization and build my professional career.
+
+Professional summary:
+•	Having 4 - years of experience in development, Implementation of Web applications on Python & Django Framework.
+•	Experience in designing & developing software systems using oops concepts.
+•	Experienced in developing web Applications using Django Framework.
+•	Experienced in developing Web Applications using oops. 
+•	Hands in developing Web Applications using mvc & mvt patterns.
+•	Having good Knowledge in python like Lists, Dictionaries, Tuples, Sets, list comprehensions and lambda Expression.
+•	Having good Knowledge in python advantages Concepts like Iterators, Generators and Decorators.
+•	Expertise in creating User Controls, Web Forms and client side validations using JavaScript.
+•	Experience in using various tools and IDEs for development and design like pycharm.
+Work Experience:
+Worked as Software Developer in Dot Square from Feb 2019 to April 2019
+Worked as Software Engineer in Prose Soft Solutions Pvt Ltd from May 2015 to Jan 2019
+Education profile:
+•	B.tech (Computer Science) from JntuK University in 2015.
+ STRENGTH:
+•	I am a effective team player
+•	Willingness to learn new things. 
+•	Quick adaptability to any environment. 
+•	Good at problem solving skills. 
+•	Capability of understanding and implementing new techniques quickly. 
+•	Good Communication Skills. 
+•	Optimistic, Sincere and hard working. 
+
+Technical Skills:
+
+•	Programming Language	           	: Python, SQL.
+•	Visualization Tools                    	:  Tableau, Power - BI
+•	Code Version Tools	          		: GitHub.
+Projects Summary:
+Project 1: 
+Title: Python script version-2 to python script version-3 conversion.
+Duration: 11th Mar 2019 to 16 mar 2019.
+Objective: Python script version-3 has a different print statement and unicode conversion, range 
+                   functionality.
+Responsibility: python script version-2 is converted into python script version-3. Version compatibility
+                           for version-3, project is already developed in python version-2, I have converted into
+                           python version-3.
+Project 2: 
+Title: Insurance System With Tracking Manager		
+Duration: July 2017 to Dec 2018.
+Technologies Used: Python, Django, html, CSS, JavaScript and MySQL.
+Objective: The objective of the project is to develop a system that provides the Insurance services to the customer. The system automates the processes and activities related to Insurance.  The purpose is to design a system that enables one to perform activities related to very us types of insurance and loans.
+ Responsibility: Is to develop a code in web framework in django. The requirement of users will develop modules of different actors of it. Administrator manages the entire application and manages all the Users details. Administrator provides the facility to send the statements and loan EMI details in pdf format to user mail ideas.  A user can view the details of various policies and schemes offered by the Insurance Company. New user can register with the site so that he can get information online. An existing policy holder can view his policy details and calculate the premium. The website provides information about the new strategies and subsidiary schemes of the company.
+My Responsibility in Project: I have worked on the Module of Agent Module.
+Project 3:         
+ Role: python Developer
+ Title:  HOSPITAL DEVICE MANAGEMENT
+  Duration: Feb 2016 to April 2017.
+Technologies Used: Python, Django, html, CSS, JavaScript.
+Objective: Every hospital needs an online system whereby it can accommodate the doctors comfortably and avoid     any confusion to the doctors regarding their work and facilities available in hospital. There should be a system where doctors can keep the order for the new inventories they required in hospital. Finance Department will get the new orders from administrator and they will get the new devices from the market. The finance department will assign the devices to the doctors according to their requests.
+Responsibility:  The Administrator can enter the all the details of the Doctors details and all the information related to the devices in hospital. He can track the information about the devices issued to doctors and request placed by the request of the doctors. This can be maintaining Admin, Doctors, and Accountants. The Doctor also can track the devices which are present in the hospital and place a request to use the device. He can modify the details of his own like password and profile updation.
+My Responsibility in Project: I have worked on the Module of Doctor.
+PERSONAL PROFILE:
+            		Name	:  M. Vamsi Krishna
+		DOB	: 17th -January-1992
+		Nationality	:  Indian
+		Languages Known   	     :  English, Hindi, Telugu and Tamil.
+
+
+DECLARATION:
+
+           I declare that all the information furnished above is true to the best of my knowledge.
+
+
+
+            Place:	       Date:	                         (Vamsi Krishna)
+
+
+
+
